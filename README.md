@@ -4,7 +4,7 @@ In this data analytics project, I use open source data from Instacart, as well a
 - 02 Data: Contains the customers.csv data set fabricated by CareerFoundry.
 - 03 Scripts: Contains all python scripts used to clean and analyze the data.
 - 04 Analysis: Contains all of the data visualizations.
-- 05 Sent to client: Contains a report of the findings.
+- 05 Sent to client: Contains a report of the findings (in Microsoft Excel).
 
 ## Open Source Data
 - Instacart's open source data was obtained via [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
