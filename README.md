@@ -1,7 +1,7 @@
 # BI-Analysis-Instacart
 Utilizing Python for exploratory analysis of business data.
 
-### Project Objectives
+## Project Objectives
 The project aims to perfrom an initial data and exploratory analysis of [Instacart](https://www.instacart.com/) sales and customer data in order to derive insights and suggest strategies for better segmentation and customer profiliing based on the following criteria:
 - What are the busiest days of the weeks?
 - What are the busiest hours of the day?
@@ -9,7 +9,7 @@ The project aims to perfrom an initial data and exploratory analysis of [Instaca
 - Are certain types of products more popoular than others?
 - What are the different types of customers that exist in Instacart's system and how do their ordering habits differ?
 
-### Content
+## Content
 **1 Scripts**
 - [Data Preparation](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/03%20Scripts/1.%20Data%20Preparation.ipynb)
 - [Data Analysis and Visualization](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/03%20Scripts/2.%20Data%20Analysis%20and%20Visualizations.ipynb)
@@ -23,7 +23,7 @@ Data [visualizations]() created using
 **3 Final Deliverables**
 - [Final_Report.xlsx](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/05%20Sent%20to%20client/Final_Report.xlsx)
 
-### Open Source Data
+## Open Source Data
 - Instacart's open source data was obtained via [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 - Instacart's [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 - Data set used for analysis:
