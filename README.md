@@ -16,7 +16,7 @@ Data [visualizations]() created using
 - seaborn
 
 **03.Final Deliverables**
-- [Final_Report](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/05%20Sent%20to%20client/Final_Report.xlsx)
+- [Final_Report.xlsx](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/05%20Sent%20to%20client/Final_Report.xlsx)
 
 ## Open Source Data
 - Instacart's open source data was obtained via [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
