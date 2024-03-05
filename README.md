@@ -8,10 +8,12 @@ The project aims to perfrom an initial data and exploratory analysis of [Instaca
 **01.Scripts**
 - [Data Preparation](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/03%20Scripts/1.%20Data%20Preparation.ipynb)
 - [Data Analysis and Visualization](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/03%20Scripts/2.%20Data%20Analysis%20and%20Visualizations.ipynb)
+
 **02.Visualizations**
 Data [visualizations]() created using
 - matplotlib
 - seaborn
+
 **03.Final Deliverables**
 - [Final_Report](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/05%20Sent%20to%20client/Final_Report.xlsx)
 
