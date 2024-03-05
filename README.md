@@ -10,6 +10,7 @@ The project aims to perfrom an initial data and exploratory analysis of [Instaca
 - [Data Analysis and Visualization](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/03%20Scripts/2.%20Data%20Analysis%20and%20Visualizations.ipynb)
 
 **02.Visualizations**
+
 Data [visualizations]() created using
 - matplotlib
 - seaborn
