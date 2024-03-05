@@ -23,8 +23,8 @@ Data [visualizations]() created using
 **3 Final Deliverables**
 - [Final_Report.xlsx](https://github.com/ryanpatricklee/Instacart-Grocery-Basket-Analysis/blob/main/05%20Sent%20to%20client/Final_Report.xlsx)
 
-### Data
-- Instacart's open source data was obtained via [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+## Data
+- "The Instacart Online Grocery Shopping Dataset 2017" was obtained via [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 - Instacart's [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 - Data set used for analysis:
   - departments.csv
