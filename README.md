@@ -1,7 +1,7 @@
 # BI-Analysis-Instacart
 Utilizing Python for exploratory analysis of business data.
 
-## Project Objectives
+## Objective
 The project aims to perfrom an initial data and exploratory analysis of [Instacart](https://www.instacart.com/) sales and customer data in order to derive insights and suggest strategies for better segmentation and customer profiliing based on the following criteria:
 - What are the busiest days of the weeks?
 - What are the busiest hours of the day?
