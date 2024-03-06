@@ -31,4 +31,4 @@ Data [visualizations]() created using
   - orders.csv
   - orders_products_prior.csv
   - products.csv
-- The customer data as well as the “prices” column in the products data set were both fabricated for the purpose of this project.
+- The customer data as well as the “prices” column in the products dataset were both fabricated for the purpose of this project.
